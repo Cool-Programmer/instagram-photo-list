@@ -1,0 +1,13 @@
+.ipl-photos{
+  width: 100%;
+}
+
+.ipl-photos .photo-col{
+  float: left;
+  width: 30%;
+  padding: 4px;
+}
+
+.ipl-photos img{
+  width: 100%;
+}
